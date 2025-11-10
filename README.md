@@ -18,13 +18,13 @@
 - **Languages:** C#, JavaScript, SQL  
 - **Backend:** ASP.NET Core, Web API  
 - **Frontend:** HTML5, CSS3, Bootstrap, Anguler  
-- **Database:** SQL Server, Mysql,mongodb 
+- **Database:** SQL Server, MySQL,Mongodb 
 - **Tools:** Git, Visual Studio, VS Code, Postman,Gen Ai 
 
 ---
 ## 📫 Connect With Me
 - GitHub: [github.com/MohamedHussine](https://github.com/MohamedHussine)  
-- LinkedIn: [linkedin.com/in/YourProfile](www.linkedin.com/in/mohamedhussine)
+- LinkedIn: [linkedin.com/in/YourProfile](https://www.linkedin.com/in/mohamedhussine)
 - Email: mh7720696@gmail.com 
 
 ---
