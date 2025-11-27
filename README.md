@@ -51,7 +51,7 @@
 ## 📫 Connect With Me
 - GitHub: [github.com/MohamedHussine](https://github.com/MohamedHussine)  
 - LinkedIn: [linkedin.com/in/YourProfile](https://www.linkedin.com/in/mohamedhussine)
-- Email: mh7720696@gmail.com 
+- Email: mohamedhussine.dev@gmail.com
 
 ---
 ⭐️ From [Mohamed Hussine](https://github.com/MohamedHussine)
